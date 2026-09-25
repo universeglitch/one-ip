@@ -46,6 +46,7 @@ simple = { limit = 180, period = 60 }
 name = "ACTION_LIMITER"
 namespace_id = "1002"
 simple = { limit = 5, period = 60 }
-[vars] TURNSTILE_HOSTNAMES = "52013130.xyz"
-TURNSTILE_SECRET = "0x4AAAAAAFDG70beq_UVEqU2geW2qvG3djw" 
+[vars]
+TURNSTILE_HOSTNAMES = "52013130.xyz"
+TURNSTILE_SECRET = "0x4AAAAAAFDG70beq_UVEqU2geW2qvG3djw"
 TURNSTILE_SITE_KEY = "0x4AAAAAAFDG75taapFiPUY_"
